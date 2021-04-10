@@ -1,0 +1,21 @@
+{
+    "name": "kabelo-s-cherry-bomb",
+    "displayName": "Kabelo's CHERRY BOMB",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "KABELO'S CHERRY BOMB :)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/KABELO'S CHERRY BOMB )-color-theme.json"
+            }
+        ]
+    }
+}
